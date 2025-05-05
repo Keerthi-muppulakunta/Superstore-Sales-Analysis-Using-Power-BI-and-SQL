@@ -15,7 +15,11 @@ The repository contains the following components:
   *  Python scripts for data cleaning and transformation of the Excel dataset.
   * SQL dump file for importing the transformed data into a SQL database.
   * SQL queries for performing exploratory analysis and extracting insights from the sales data.
-  *  Power BI project file (.pbix) containing the interactive reports with three pages: sales performance, customer analysis, and product analysis.
+  *  Power BI project containing the interactive reports with three pages
+     sales performance
+     sales dashboard(https://github.com/Keerthi-muppulakunta/Superstore-Sales-Analysis-Using-Power-BI-and-SQL/blob/30b1ef38633eb3e54f11a6b481d1791dd59713d8/Sales_Dashboard.png)
+     customer analysis
+     product analysis.
 
 The project demonstrates proficiency in data cleaning, SQL querying, and data visualization using Power BI. The interactive reports provide valuable insights into sales performance, customer behavior, and product analysis, facilitating informed decision-making.
 
