@@ -31,3 +31,4 @@ The repository contains the following components:
 The project demonstrates proficiency in data cleaning, SQL querying, and data visualization using Power BI. The interactive reports provide valuable insights into sales performance, customer behavior, and product analysis, facilitating informed decision-making.
 
 
+[Superstore Sales Insights.pdf](https://github.com/user-attachments/files/20037340/Superstore.Sales.Insights.pdf)
