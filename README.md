@@ -14,20 +14,20 @@ The primary goal of this project is to analyze retail sales data and derive valu
 ---
 
 ## Solution Approach
-1. *Data Cleaning: The raw dataset in Excel format was cleaned and converted into a CSV file using **Excel*.
-2. *Data Transformation: Additional preprocessing was done using **Python* to ensure data consistency.
-3. *Data Analysis: The cleaned CSV was imported into a **MySQL* database. SQL queries were executed to extract insights and identify sales patterns.
-4. *Data Visualization: The analysis was visualized through a fully interactive **Power BI* dashboard with three key reporting pages:
-   - *Sales Dashboard*
-   - *Customer Analysis*
-   - *Product Performance*
+1. Data Cleaning: The raw dataset in Excel format was cleaned and converted into a CSV file using **Excel*.
+2. Data Transformation: Additional preprocessing was done using **Python* to ensure data consistency.
+3. Data Analysis: The cleaned CSV was imported into a SQL database. SQL queries were executed to extract insights and identify sales patterns.
+4. Data Visualization: The analysis was visualized through a fully interactive **Power BI* dashboard with three key reporting pages:
+   - Sales Dashboard*
+   - Customer Analysis*
+   - Product Performance*
 
 ---
 
 ## Tools Used
 - *Excel* – for initial data cleaning and converting to CSV
 - *Python* – for data transformation and preprocessing
-- *MySQL* – for SQL-based data analysis and querying
+- *SQL* – for SQL-based data analysis and querying
 - *Power BI* – for interactive dashboard design and insights presentation
 
 ---
